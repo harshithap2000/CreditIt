@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "729095025900",
+    "firebase_url": "https://creditit-3c5a2.firebaseio.com",
+    "project_id": "creditit-3c5a2",
+    "storage_bucket": "creditit-3c5a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729095025900:android:a6b945ef0a942d9a1fe1c9",
+        "android_client_info": {
+          "package_name": "com.goldfarm.CreditIt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729095025900-cfimciov25roiaae7m5vnsje4hc90tq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg6CIa5UCGzUIDmPpsUQ_qHv9uCjWEEow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729095025900-cfimciov25roiaae7m5vnsje4hc90tq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729095025900-40dcpdi5qfsh9006f2c7pmrureojvhp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldfarm.CreditIt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
